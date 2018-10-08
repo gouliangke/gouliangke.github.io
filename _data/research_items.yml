@@ -1,0 +1,9 @@
+- name: Quantitative Trait Mapping for Mutation Rate 
+  url: https://github.com/gouliangke/myblog/blob/master/photos/MR.png
+  background: MR project Background
+  description: MR project Description
+
+- name: LOH
+  url: https://github.com/gouliangke/myblog/blob/master/photos/LOH.png
+  background: LOH Background
+  description: LOH Description

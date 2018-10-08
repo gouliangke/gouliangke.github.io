@@ -1,0 +1,11 @@
+- name: Youtube channel
+  url: https://www.youtube.com/channel/UC1scIK8-JKb9uKNwOSzwXFw/videos
+
+- name: Kruglyak Lab
+  url: https://kruglyak.genetics.ucla.edu/
+
+- name: Zijun's homepage
+  url: https://zj-zhang.github.io/
+  
+- name: Another Blog
+  url: zzjandglk.wordpress.com

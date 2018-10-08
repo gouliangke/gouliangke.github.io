@@ -1,0 +1,79 @@
+---
+layout: default
+---
+<head>
+    <meta name="keywords" content="Zijun Zhang, UCLA, University of California Los Angeles, Bioinformatics, Splicing, Alternative Splicing, CLIP-seq, Deep Learning, Genetics, Genomics" />
+    <meta name="description" content="Professional Homepage of Zijun Zhang" />
+
+    <!--
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6519185782524555",
+        enable_page_level_ads: true
+      });
+    </script>
+    -->
+</head>
+
+<div class="page clearfix" index>
+    <div class="left">
+        <h1>Welcome to Zijun Zhang's Homepage!</h1>
+        <br/>
+        <div class="img_left"><img src={{ site.data.profile.profile_img }} alt="example graphic" /><br />
+            <small> {{ site.data.profile.profile_note }} </small></div>
+        <p class="justified"> {{ site.data.profile.first_paragraph }} </p>
+
+        <p class="justified"> {{ site.data.profile.second_paragraph }} </p>
+        
+        <hr />
+        {% for project in site.data.research_items %}
+        <div class = "research_item">
+            <h2>{{ project.name }}</h2>
+            <span class="right"><img class="illus" src={{ project.url }} alt="example graphic" /></span>
+            <p class="justified">{{ project.background }}</p>
+            <p class="justified">{{ project.description }}</p>
+        </div>        
+        {% endfor %}
+      </div>
+    
+
+    <div class="right">
+        <div class="wrap">
+            <div class='side'>
+                {% include twitter_embed.html %}
+            </div>
+            <div class='side'>
+                <div>
+                    <i class="fas fa-mail-bulk"></i>
+                    Contact
+                <br />
+                <br />
+                <p><a href="https://xinglab.org/" target="_blank">Xing Lab</a>
+                <br>Bioinformatics IDP
+                <br />UCLA
+                <br /><a href="mailto:zj.z@ucla.edu" target=blank>zj.z@ucla.edu</a>
+                </p>
+                <p><a href="https://scholar.google.com/citations?user=YDl3mfgAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+
+                </div>
+            </div>
+            <div class="side">
+                <div>
+                    <i class="fa fa-external-link"></i>
+                    Links
+                </div>
+                <ul  class="content-ul">
+                {% for link in site.data.external_links %}
+                <li> 
+                    <a href={{link.url}}> {{link.name}} </a>
+                </li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- <script src="{{ "/js/scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
+<!-- <script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
