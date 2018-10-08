@@ -11,11 +11,11 @@ type: page
 
 ## About me
 
-<iframe src="https://githubbadge.appspot.com/zj-zhang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/gouliangke?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ## Links
 
-[[Liangke](http://gouliangke.github.io) \| [Old Blog](https://zzjandglk.wordpress.com/)
+[[Zijun](http://zj-zhang.github.io) \| [Old Blog](https://zzjandglk.wordpress.com/)
 ]
 
 ## Comments
