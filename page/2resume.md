@@ -10,37 +10,83 @@ type: page
 {:toc}
 
 
-Johnny Coder
+Liangke (Connie) Gou
 ============
 
 <hr />
 <div style="width: 800px;margin: 0 auto;padding: 0;overflow: auto;">
 	<div style="float:left;">         
-		<p>1 MyAddress</p>
-		<p>MyTown 1000</p>
-		<p>MyCountry</p>
+		<p>1 Department of Human Genetics, UCLA</p>
+		<p>Los Angeles</p>
+		<p>California</p>
 	</div>
 	<div style="float:right;">
-		<p>email</p>
-		<p>website</p>
-		<p>twitter</p>
+		<p>lgou@ucla.edu</p>
+		<p>gouliangke.github.io</p>
+		<p>@GouConnie</p>
 	</div>
 </div>
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2014-2019 
+:   **Ph.D., Human Genetics**; University of California, Los Angeles
+    
+    *GPA 3.8*
+     
+ 2014-2019 
+:    **M.S., Statistics**; University of California, Los Angeles
+    *GPA 3.8*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2010-2014
+:   **B.S., Biological Science**; Sichuan University
+    *GPA 3.9*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Skills
+----------------------------------------
 
-    *Minor: Awesomeology*
+* Programming Languages:
+     * R
+     * Python
+     * Julia
+     * Keras
+     * SQL
+     * Unix/Linux
+     * bash
+     * Git
+     * Html
+     * Jeckyll
+
+* Statistics
+     * Regularized regression
+     * Dimension reduction
+     * Sampling
+     * Bayesian statistics 
+     * Missing data
+     * Hierarchical models
+     * Model selection
+     * Latent variables
+     * Causal inference
+     * Multivariate analysis
+     
+* Deep/Machine Learning
+     * Classification (CNN, adaboost/xgboost, SVM,
+      random forests)
+     * Unsupervised Learning (clustering, NMF, factor analysis)}     
+ 
+* Biology Techniques
+	 * Genetic Engineering using CRISPR-Cas9 system in Stem Cell and Yeast
+     * Genetic Cloning
+     * Next Generation Sequencing Library Preparation
+     * Molecular Cloning
+     * DNA/RNA Amplification
+     * Stem Cell Culture 
+     * FACS Cell Sorting
+
+* Languages:
+     * Mandarin (native speaker)
+     * English (fluent)
 
 
 Experience
