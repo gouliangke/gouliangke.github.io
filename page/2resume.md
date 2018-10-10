@@ -16,14 +16,14 @@ Liangke (Connie) Gou
 <hr />
 <div style="width: 800px;margin: 0 auto;padding: 0;overflow: auto;">
 	<div style="float:left;">         
-		<p>1 Department of Human Genetics, UCLA</p>
+		<p>Department of Human Genetics, UCLA</p>
 		<p>Los Angeles</p>
 		<p>California</p>
 	</div>
 	<div style="float:right;">
 		<p>lgou@ucla.edu</p>
 		<p>gouliangke.github.io</p>
-		<p>@GouConnie</p>
+		<p>GouConnie</p>
 	</div>
 </div>
 
@@ -31,16 +31,16 @@ Education
 ---------
 
 2014-2019 
-:   **Ph.D., Human Genetics**; University of California, Los Angeles
+:   **Doctor of Philosophy, Human Genetics**; University of California, Los Angeles
     
     *GPA 3.8*
      
  2014-2019 
-:    **M.S., Statistics**; University of California, Los Angeles
+:    **Master of Science, Statistics**; University of California, Los Angeles
     *GPA 3.8*
 
 2010-2014
-:   **B.S., Biological Science**; Sichuan University
+:   **Master of Science, Biological Science**; Sichuan University
     *GPA 3.9*
 
 Skills
