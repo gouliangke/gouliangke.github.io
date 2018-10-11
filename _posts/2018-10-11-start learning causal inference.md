@@ -7,10 +7,13 @@ author: Liangke G
 academia: true
 mathjax: true
 ---
+* content
+{:toc}
+
 
 Recently I am taking a class of causal inference, and we did an easy exercise during the class. Despite the fact that this is a basic regression question, it helps us understand how to interpret the coefficients gained in different models, and how the observed coefficients indicate the causal relationship.
 
-##question background and models
+## question background and models
 So let's first take an look of the background of the question and the models:
 
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/4.png" height="200" />
@@ -21,7 +24,7 @@ So let's first take an look of the background of the question and the models:
 >
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/3.png" height="600" />
 
-##Go through of each question
+## Go through of each question
 
 Here let's take of a look at each of the questions and I will share the understanding of them with you. 
 

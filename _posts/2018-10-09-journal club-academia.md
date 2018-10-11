@@ -6,6 +6,8 @@ tags: QTL Genetics journal-club
 author: Liangke G
 academia: true
 ---
+* content
+{:toc}
 
 We did a journal club discussing the paper "Tightly-linked antagonistic-effect loci underlie polygenic demographic variation in C. elegans " on bioRxiv.
 
@@ -16,7 +18,7 @@ We show that demography under these conditions is genetically complex in a panel
 
 
 >
-##What are RILs and NILs
+## What are RILs and NILs
 
 Before we get to the details of their result, it is worthwhile to understand two important concept in the C. elegans mapping field, that is RIL and NIL. In this bioRxiv paper, Bernstain et al. give a great introduction of these two terms. Here I just quote their introduction:
 
@@ -25,6 +27,7 @@ Before we get to the details of their result, it is worthwhile to understand two
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/1.png" height="250" />
 
 (figure from "Tightly-linked antagonistic-effect loci underlie polygenic demographic variation in C. elegans ")
+
 ## Results in this paper
 
 They used the N2 and CB4856 as the parental strains, and they identified significant difference between the parent strains in their demographies. N2 has more progeny and a greater proportion of the progeny were measured as adults, consistent with a developmental delay in CB4856 relative to N2. Then they performed multivariant QTL mapping in a RILs population, and identified 7 QTLs that influent the demography in the RILs.  Given the discrepancy between the estimated broad-sense heritabilities and the heritability explained by the detected QTLs, they propose one possible genetic model for our traits ascribes the unexplained heritable variation to a large number of variants spread across the genome. 
