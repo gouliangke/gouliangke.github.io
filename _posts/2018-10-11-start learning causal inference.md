@@ -5,6 +5,7 @@ categories: Statistics
 tags: Statistics Causal-inference
 author: Liangke G
 academia: true
+mathjax: true
 ---
 
 Recently I am taking a class of causal inference, and we did an easy exercise during the class. Despite the fact that this is a basic regression question, it helps us understand how to interpret the coefficients gained in different models, and how the observed coefficients indicate the causal relationship.
@@ -28,16 +29,12 @@ Here let's take of a look at each of the questions and I will share the understa
 
 Model1: 
 $$
-\begin{align}
 \hat{y_b} =171.81+63.76 * 3.45 = 222 
-\end{align}
 $$ 
 
 Residual of model 1 
 $$
-\begin{align}
 y_b-\hat{y_b}=294-222=72
-\end{align}
 $$
 
 The method of calculating the other two cases will be exactly the same.
@@ -52,12 +49,8 @@ P value is greater than 0.001, because p value is 0.0011.
 This is a trick question, the things tested here is since F-test and t-test both test $H_0$ in simple regression. Therefore the p value of them is the same. 
 
 P-value for coefficient of smoke:
-$$
-\begin{align}
-H_0: \beta_i=0
-H_alt: \beta_i \neq 0
-\end{align}
-$$
+$$H_0: \beta_i=0$$
+$$H_alt: \beta_i \neq 0$$
 
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/7.png" height="50" />
 
