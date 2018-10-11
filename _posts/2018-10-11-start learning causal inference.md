@@ -50,7 +50,7 @@ This is a trick question, the things tested here is since F-test and t-test both
 
 P-value for coefficient of smoke:
 $$H_0: \beta_i=0$$
-$$H_alt: \beta_i \neq 0$$
+$$H_{alt}: \beta_i \neq 0$$
 
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/7.png" height="50" />
 
