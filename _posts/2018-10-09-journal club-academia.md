@@ -13,6 +13,9 @@ We did a journal club discussing the paper "Tightly-linked antagonistic-effect l
 In this paper Bernstein et al. used the experimental genetics to show most genomic regions carry variants with detectable effects on complex traits. They measured the fitness effects of Ceanorhabditis elegans under Nickel stress using a high-throughput phenotyping method that characterize demography as a multivariate trait in growing populations. 
 We show that demography under these conditions is genetically complex in a panel of recombinant inbred lines. We then focused on a 1.4-Mb region of the X chromosome. When we compared two near isogenic lines (NILs) that differ only at this region, they were phenotypically indistinguishable. When we used additional NILs to subdivide the region into fifteen intervals, each encompassing ~0.001 of the genome, we found that eleven of intervals have significant effects. These effects are often similar in magnitude to those of genome-wide significant QTLs mapped in the recombinant inbred lines but are antagonized by the effects of variants in adjacent intervals. 
 
+
+
+>
 ##What are RILs and NILs
 
 Before we get to the details of their result, it is worthwhile to understand two important concept in the C. elegans mapping field, that is RIL and NIL. In this bioRxiv paper, Bernstain et al. give a great introduction of these two terms. Here I just quote their introduction:
@@ -21,10 +24,6 @@ Before we get to the details of their result, it is worthwhile to understand two
 
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/1.png" height="250" />
 
-
-
-
->
 (figure from "Tightly-linked antagonistic-effect loci underlie polygenic demographic variation in C. elegans ")
 ## Results in this paper
 
