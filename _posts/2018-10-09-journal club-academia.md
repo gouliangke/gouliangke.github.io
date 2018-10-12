@@ -16,6 +16,8 @@ In this paper Bernstein et al. used the experimental genetics to show most genom
 They then focused on a 1.4-Mb region of the X chromosome using the near isogenic lines (NILs) that subdivide the region into fifteen intervals. They found that eleven of intervals have significant effects, indicating potential adjacent QTLs with antagonistic effects. 
 
 
+
+
 >
 ## What are RILs and NILs
 
