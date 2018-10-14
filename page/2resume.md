@@ -23,7 +23,7 @@ Liangke (Connie) Gou
 	<div style="float:right;">
 		<p>lgou@ucla.edu</p>
 		<p>gouliangke.github.io</p>
-		<p>Liangke Gou</p>
+		<p>[LinkedIn](https://www.linkedin.com/in/liangke-gou-9869907a/)</p>
 	</div>
 </div>
 
