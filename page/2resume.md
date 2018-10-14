@@ -91,21 +91,26 @@ Skills
 
 Summary
 ----------
-* Ph.D. student with thorough hands-on experience in quantitative genetics and statistics, including mapping the quantitative trait loci for different traits, genetic engineering using CRISPR in yeast and stem cells, analyzing DNA sequencing data, RNA sequencing data and methylation data. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.}
+Ph.D. student with thorough hands-on experience in quantitative genetics and statistics, including mapping the quantitative trait loci for different traits, genetic engineering using CRISPR in yeast and stem cells, analyzing DNA sequencing data, RNA sequencing data and methylation data. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.}
 
 
 Experience
 ----------
 
 * Jul. 2015 - Present     Laboratory of Quantitative Genetics, UCLA  
-* Graduate Researcher; Advisor Leonid Kruglyak
+  Graduate Researcher; Advisor Leonid Kruglyak
+  
 	* Development of High-throughput Assay
+	
       Developed and implemented an automated high-throughput fluctuation analysis to measure mutation rate of 1040 yeast segregants. This automated system enabled large scale measure of mutation rate the first time.
     * Quantitative Genetic Analysis
+    
       Performed quantitative trait loci (QTL) linkage mapping of 1040 yeast segregants at 28220 genetic markers for the mutation rate variation.
     * Convolutional Neural Network
+    
       Predicted the genetic engineering efficiency of different guide RNAs using Convolutional neural network.
     * Genetic Engineering in Yeast and Stem Cells
+    
       Modified the targeting genome of yeast and stem cells using the cutting-edge CRISPR-Cas9 system.
       
 
