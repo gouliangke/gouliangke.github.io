@@ -91,7 +91,7 @@ Skills
 
 Summary
 ----------
-Ph.D. student with thorough hands-on experience in quantitative genetics and statistics, including mapping the quantitative trait loci for different traits, genetic engineering using CRISPR in yeast and stem cells, analyzing DNA sequencing data, RNA sequencing data and methylation data. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.}
+Ph.D. student with thorough hands-on experience in quantitative genetics and statistics, including mapping the quantitative trait loci for different traits, genetic engineering using CRISPR in yeast and stem cells, analyzing DNA sequencing data, RNA sequencing data and methylation data. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
 
 
 Experience
@@ -114,97 +114,36 @@ Experience
       Modified the targeting genome of yeast and stem cells using the cutting-edge CRISPR-Cas9 system.
       
 
-    \resumeSubheading
-      {Laboratory of Computational Population Genetics, UCLA}{Los Angeles, CA}
-      {Rotation Graduate Student; Advisor Bogdan Pasaniuc}{Apr. 2015 - Jun. 2015}
-      \resumeItemListStart
-        \resumeItem{Causal Inference}
-          {Analyze the 1000 genome data and Geuvadis RNA sequencing data and predict causal SNPs in risk loci using a probabilistic framework that integrates association strength with genomic functional annotation data to improve accuracy in selecting plausible causal variants.}
-      \resumeItemListEnd
+* Apr. 2015 - Jun. 2015     Laboratory of Computational Population Genetics, UCLA
+  Rotation Graduate Student; Advisor Bogdan Pasaniuc
+    
+    * Causal Inference
+          
+      Analyze the 1000 genome data and Geuvadis RNA sequencing data and predict causal SNPs in risk loci using a probabilistic framework that integrates association strength with genomic functional annotation data to improve accuracy in selecting plausible causal variants.
 
-    \resumeSubheading
-      {Laboratory of Lipid Metabolism, UCLA}{Los Angeles, CA}
-      {Rotation Graduate Student; Advisor Karen Reue}{Oct. 2014 - Dec. 2014}
-      \resumeItemListStart
-        \resumeItem{Differential Gene Expression Analysis}
-          {Investigated the differential expression pattern of micro RNAs in the adipose tissue of two group of mice to test the micro RNA roles in obesity.}
-      \resumeItemListEnd
+* Oct. 2014 - Dec. 2014     Laboratory of Lipid Metabolism, UCLA
+  Rotation Graduate Student; Advisor Karen Reue
+  
+    * Differential Gene Expression Analysis
+    
+      Investigated the differential expression pattern of micro RNAs in the adipose tissue of two group of mice to test the micro RNA roles in obesity.
 
-    \resumeSubheading
-      {Laboratory of Computational Biology, UCLA}{Los Angeles, CA}
-      {CSST Summer Undergraduate Researcher; Advisor Matteo Pellegrini}{Jul. 2013 - Sep. 2013}
-      \resumeItemListStart
-        \resumeItem{Methylation Data Analysis}
-          {Analyzed the high-throughput Reduced Representation Bisulfite Sequencing (RRBS) data.}
-        \resumeItem{Statistical Modeling}          
-          {Examined the association between the methylation level of oral bacteria and the host sexual preference using generalized linear model and hierarchical clustering.}
-      \resumeItemListEnd
-
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Jul. 2013 - Sep. 2013     Laboratory of Computational Biology, UCLA
+  CSST Summer Undergraduate Researcher; Advisor Matteo Pellegrini
+  
+    * Methylation Data Analysis
+    
+      Analyzed the high-throughput Reduced Representation Bisulfite Sequencing (RRBS) data.
+    * Statistical Modeling         
+          
+      Examined the association between the methylation level of oral bacteria and the host sexual preference using generalized linear model and hierarchical clustering.
+  
+     
+Publications and Pre-prints
+----------
+* 2018
+  Liangke Gou, Joshua Bloom, Leonid Kruglyak. The genetic basis of mutation rate variation in yeast. bioRxiv
+  [https://www.biorxiv.org/content/early/2018/06/04/338723](https://www.biorxiv.org/content/early/2018/06/04/338723)
+      
+* 2013
+  Li-Chun Jiang, Liang-Ke Gou, Xin Zhang, Qing-Mei Zhao, Shuai Tan, Rui Peng, Yu-Qing, Wei\*, \& Fang-Dong Zou\*;Complete mitochondrial genome of a new subspecies of the blue sheep, Pseudois nayaur (Cetartiodactyla: Caprinae) from Helan Mountain in China; Mitochondrial DNA, DOI: 10.3109/19401736.2013.855759
