@@ -146,4 +146,4 @@ Publications and Pre-prints
   [https://www.biorxiv.org/content/early/2018/06/04/338723](https://www.biorxiv.org/content/early/2018/06/04/338723)
       
 * 2013
-  Li-Chun Jiang, Liang-Ke Gou, Xin Zhang, Qing-Mei Zhao, Shuai Tan, Rui Peng, Yu-Qing, Wei\*, \& Fang-Dong Zou\*;Complete mitochondrial genome of a new subspecies of the blue sheep, Pseudois nayaur (Cetartiodactyla: Caprinae) from Helan Mountain in China; Mitochondrial DNA, DOI: 10.3109/19401736.2013.855759
+  Li-Chun Jiang, Liang-Ke Gou, Xin Zhang, Qing-Mei Zhao, Shuai Tan, Rui Peng, Yu-Qing, Wei\*, Fang-Dong Zou\*;Complete mitochondrial genome of a new subspecies of the blue sheep, Pseudois nayaur (Cetartiodactyla: Caprinae) from Helan Mountain in China; Mitochondrial DNA, DOI: 10.3109/19401736.2013.855759
