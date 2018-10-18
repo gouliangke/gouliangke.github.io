@@ -1,13 +1,13 @@
 - name: Quantitative Trait Mapping for Mutation Rate 
   url: https://github.com/gouliangke/myblog/raw/master/photos/MR.png
-  background: MR project Background
-  description: MR project Description
+  background: Mutations are the root source of genetic variation and underlie the process of evolution. Although the rates at which mutations occur vary considerably between species, little is known about differences within species, or the genetic and molecular basis of these differences. In this project, I leveraged the power of the yeast Saccharomyces cerevisiae as a model system to uncover natural genetic variants that underlie variation in mutation rate.
+  description: In this project, I developed a high-throughput fluctuation assay and used it to quantify mutation rates in natural yeast isolates and in 1040 segregant progeny from a cross between BY, a lab strain, and RM, a wine strain. We observed that mutation rate varies among yeast strains and is highly heritable (H2=0.46). We performed linkage mapping in the segregants and identified four quantitative trait loci (QTLs) underlying mutation rate variation in the cross. I fine-mapped two QTLs to the underlying causal genes, RAD5 and MKT1, that contribute to mutation rate variation. These genes also underlie sensitivity to the DNA damaging agents 4NQO and MMS, suggesting a connection between spontaneous mutation rate and mutagen sensitivity. 
 
 - name: LOH
   url: https://github.com/gouliangke/myblog/raw/master/photos/LOH.png
-  background: LOH Background
-  description: LOH Description
-
+  background: The fundamental goal of genetics is to understand the link between genetic variation and trait variation across the entire range of biological phenomena, from genetic diseases to pathogen virulence. However, current methods for trait mapping often span many genes, and narrowing them to the specific underlying genes and genetic variants can be painstaking. Recently my lab has successfully fine-mapped manganese sensitivity to a single polymorphism in yeast by generating a mapping panel with targeted recombination events using CRISPR. I aim to apply this approach that my lab has successfully used to map traits in yeast to human cells. 
+  description: I start with H9 human embryonic stem cell, given its diploid and pluripotent characteristic. I have generated a stable H9 cell line that contains a heterozygous selectable marker on chromosome 16 close to the telomere. By introducing double strand breaks at designed sites along chromosome 16 using CRISPR-cas9, followed by selection for cells undergone loss of heterozygosity (LOH), I will be able to generate a mapping panel of cells with different sizes carrying homozygous recombinant genomes to the telomere. Once developed, this mapping panel will allow us to map loci that control gene expression and other traits in human cells with high resolution without limitations by recombination rates and the length of linkage blocks. By differentiating the H9 stem cells into different cell lines, this mapping panel will enable fine mapping with a wide variety of cell type specific traits, shredding light on the genetic effect in different cells. 
+  
 - name: Base Editor
   url: https://github.com/gouliangke/myblog/raw/master/photos/LOH.png
   background: BE Background
