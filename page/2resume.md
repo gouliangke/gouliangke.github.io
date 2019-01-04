@@ -33,14 +33,14 @@ Education
 2014-2019 
 :   **Doctor of Philosophy, Human Genetics**; University of California, Los Angeles
     
-    *GPA 3.8*
+    *GPA 3.75*
      
  2014-2019 
 :    **Master of Science, Statistics**; University of California, Los Angeles
-    *GPA 3.8*
+    *GPA 3.89*
 
 2010-2014
-:   **Master of Science, Biological Science**; Sichuan University
+:   **Bachelor of Science, Biological Science**; Sichuan University
     *GPA 3.9*
 
 Skills
