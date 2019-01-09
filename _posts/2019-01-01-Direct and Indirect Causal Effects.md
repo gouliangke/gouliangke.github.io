@@ -29,8 +29,6 @@ Causal inference is the process of drawing a conclusion about a causal connectio
 
 Having demonstrated the underlying assumptions, Efron and Feldman formulated their model accordingly. The overall goal of the modelling is to estimate a true drug dose-response function $\delta(X)=E[Y_x-Y_0]$. The expectation was defined as the appropriate averages over a population U, so $E[Y_x-Y_0]=\sum(Y_x(u)-Y_0(u))/N$, where u is an individual from a population U, and N being the number of elements in U. This is also called average causal effect of X on response by Rubin and Holland. Based on the data distribution in **Figure 1**, the compliance was assumed to have a linear relationship with the cholesterol reduction in the Control group, z. For differences between outcomes in the Treatment and Control groups, denoted by D(z)=T(z)-C(z), was modeled quadratically as $D(z)=d_1\cdot z+d_2\cdot z^2$. If there is no interaction between the dose X and the placebo effect $y_0$ and the outcome  is purely additive of X and $y_0$, then the true dose-response function $\delta(z)=D(z)$; otherwise, the true dose-response function  depends on another continuous function H(x) that we need to specify. In the Efron-Feldman paper, the authors specified $H(x(u))=h_1 \cdot z$ and $x=s(u)\cdot z(u)$. This is basically modelling the individual-specific baseline level is likely to affect the outcome after conditioned on the dosage. The authors also commented that the interaction term has one degree of freedom, similar to Tukey’s test for interactions in a two-way ANOVA study without replication; therefore, specifying the interaction term will enable more sensitive statistical tests.
 
-One pitfall of the Efron-Feldman model is in their transformation of the Control group compliance in order to satisfy "Perfectly Blind" assumption. In the LRC-CPPT data, the compliance distribution in Treatment and Control groups were clearly different (**Figure 3**). However, since the Efron-Feldman model assumes no interaction between treatment assignment and the compliance (**Figure 2**), the model asserts the compliance between the two groups should be identical; subsequently, the Control group compliance values were rank-transformed to match their counterparts in the Treatment group. As we will see in the next section, this somewhat overly restrictive assumption was corrected in the Jin-Rubin model of principal stratification.
-
 
  
 ### 2.The Rubin causal model
@@ -76,8 +74,8 @@ Here we used the examples in **Figure 3 and 4** to illustrate the problem. Suppo
 
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/16.png" width="100%" height="100%" />
 >
-
 **Figure 3**. An example with a treatment effect on the concomitant C, but no treatment effect on the primary outcome Y. Figure modified from *Rubin 2005*
+
 
 The first two rows in the represent those units with common values of the potential outcomes, and randomly assigning them would result in half being assigned to control, represented by the first row, and half being assigned to treatment, represented by the second row, and analogously for the second pair of rows. For the sake of easily description, I named the four assignment groups as group a, b, c and d as shown in the figure above. By comparing groups, a and b, we know the outcomes are the same between these groups even they were one control and one treatment, similarly to the group c and d. when we compare groups a and c, we can see that despite the fact these two belong to the same control groups, the outcomes Y were different, because the variation in the concomitant variable C. In general, Figure 3 reveals that all units, there is a causal effect of treatment on the concomitant variable C of size1. But there is no effect on the primary outcome variable Y for any unit. Because all unites have a treatment effect on C and no effect on Y, after adjusting for the concomitant variable C, the “direct” effect of treatment on Y is simply chosen to be 0. This conditioning on the observed value of the concomitant C_obs, which is the approach recommended by Fisher, leads to a contradictory conclusion: when C_obs=3, those plots that received the new treatment do worse with a treatment effect of -2. When we compare groups b and c, we can find the effect of treatment was -2 as these two groups had the same concomitant variable value and just differed by the treatment control assignment. The negative treatment effect is clearly incorrect as it revealed by an examination of the potential outcomes in Figure 3. 
 
@@ -86,8 +84,8 @@ Here we used the example in Figure 3 to illustrate a flaw in Fisher’s proposed
 
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/17.png" width="100%" height="100%" />
 >
-
 **Figure 4**. An example with constant treatment effect on the outcome, Y, and “direct” effect for units with no treatment effect on the concomitant C. Figure modified from *Rubin 2005*
+
 
 This example is analogous to Figure 3 except there is a constant treatment effect on Y of size 1 for all units and there is no effect on the concomitant C when we focus on group c and d. For groups a, b, e and f, the treatment effect on the concomitant is 1. It is clear that the direct effect of treatment is size 1 in groups that have no treatment effect on the concomitant. In this example, Fisher’s recommended analysis of covariance (ANCOVA) will also provide and incorrect answer. The ANCOVA of $Y_{obs,i}$ on $W_i$ and $C_{obs,i}$ implies that the “direct” causal effect of treatment on primary outcome is of size -1 after accounting for the effect of treatment on concomitant. This negative effect seems is incorrect again. 
 
