@@ -56,7 +56,24 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-seo-tag]
 #gems: [jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-seo-tag]
 #paginate: 6
 #paginate_path: "blog/page:num/"
+
+
+# For Jekyll-SEO
+author:
+  twitter: LiangkeGou
+twitter:
+  username: LiangkeGou
+  card: summary
+social:
+  name: LiangkeGou
+  links:
+    - https://twitter.com/LiangkeGou_
+    - https://www.facebook.com/liangke.gou
+    - https://www.linkedin.com/in/liangke-gou-9869907a/
+    - https://github.com/gouliangke
+    - https://www.youtube.com/channel/UC1scIK8-JKb9uKNwOSzwXFw/videos
+    - https://zzjandglk.wordpress.com/
