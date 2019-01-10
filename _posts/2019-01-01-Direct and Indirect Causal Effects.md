@@ -3,7 +3,7 @@ layout: post
 title:  "Direct and Indirect Causal Effects"
 categories: Statistics
 tags: causal-inference statistics
-author: Liangke Gou_
+author: Liangke Gou
 academia: true
 mathjax: true
 ---
