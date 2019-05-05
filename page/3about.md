@@ -25,10 +25,10 @@ Getting away from home gives me the opportunity to reflect on my life and apprec
 
 ### Animal lover
 
-I love animals since I was a child. Now I have a guinea pig (planning to find a friend for my little pig). Ever evening I will spend time playing with my little guinea pig Feifei. He is such a gentle cute and clever guinea pig. I have taught Feifei to do different tricks and he learned all task super fast. During the interaction with Feifei, I become more patient and optimistic.  
+I love animals since I was a child. Now I have two guinea pigs. Ever evening I will spend time playing with my little guinea pig Feifei and Huihui. They are both gentle, cute and clever guinea pigs. I have taught Feifei to do different tricks and he learned all task super fast. During the interaction with Feifei, I become more patient and optimistic.  
 
 <img src="https://github.com/gouliangke/myblog/raw/master/photos/10.jpg" width="400" height="600" />
-
+<img src="https://github.com/gouliangke/myblog/raw/master/photos/18.jpg" width="400" height="600" />
 
 ## Links
 
