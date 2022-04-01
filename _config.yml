@@ -6,8 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Connie Liangke Gou's Life
-brief-intro: Ph.D. candidate in Human Genetics @ UCLA 
+title: Connie (Liangke) Gou
+description: Homepage and Blogs of Connie Gou
+brief-intro: Data Scientist @ Novartis 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gouliangke.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +24,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: I am a biologist currently studying Human Genetics. I am interested in understanding the mystery codes of the genomes.
+description_footer: Data scientist and biostatistician with life cycle drug development experiences (pre-clinical, clinical early and late phases) expanding multiple disease areas. Have over 3 years of experience for clinical trial data analysis, digital health data analysis, multi-omics data analysis and non-clinical statistics. Highly-skilled in machine learning, deep learning, statistical modeling, experimental design, causal inference, survival analysis, longitudinal analysis, advanced exploratory visualization and leadership.
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -69,12 +70,13 @@ twitter:
   username: LiangkeGou
   card: summary
 social:
-  name: LiangkeGou
+  name: Liangke
   links:
-    - https://twitter.com/LiangkeGou_
+    - https://twitter.com/Liangke
     - https://www.facebook.com/liangke.gou
     - https://www.linkedin.com/in/liangke-gou-9869907a/
     - https://github.com/gouliangke
     - https://www.youtube.com/channel/UC1scIK8-JKb9uKNwOSzwXFw/videos
     - https://zzjandglk.wordpress.com/
-theme: jekyll-theme-slate
+plugins:
+    - jekyll-seo-tag
