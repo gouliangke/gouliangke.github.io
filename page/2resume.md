@@ -16,8 +16,8 @@ Liangke (Connie) Gou
 <hr />
 <div style="width: 800px;margin: 0 auto;padding: 0;overflow: auto;">
 	<div style="float:left;">         
-		<p>Department of Human Genetics, UCLA</p>
-		<p>Los Angeles, CA90095</p>
+		<p>Novartis Pharmaceuticals Corp.</p>
+		<p>East Hanover, NJ07936</p>
 		<p>USA</p>
 	</div>
 	<div style="float:right;">
@@ -27,123 +27,131 @@ Liangke (Connie) Gou
 	</div>
 </div>
 
+Summary
+----------
+Data scientist and biostatistician with life cycle drug development experiences (pre-clinical, clinical early and late phases) expanding multiple disease areas. Have over 3 years of experience for clinical trial data analysis, digital health data analysis, multi-omics data analysis and non-clinical statistics. Highly-skilled in machine learning, deep learning, statistical modeling, experimental design, causal inference, survival analysis, longitudinal analysis, advanced exploratory visualization and leadership.
+
+
 Education
 ---------
 
 2014-2019 
 :   **Doctor of Philosophy, Human Genetics**; University of California, Los Angeles
-    
-    *GPA 3.75*
      
  2014-2019 
 :    **Master of Science, Statistics**; University of California, Los Angeles
-    *GPA 3.89*
 
 2010-2014
 :   **Bachelor of Science, Biological Science**; Sichuan University
-    *GPA 3.9*
+
 
 Skills
 ----------------------------------------
 
 * Programming Languages:
-     * R
-     * Python
-     * Julia
-     * Keras
-     * SQL
-     * Unix/Linux
-     * bash
-     * Git
-     * Html
-     * Jeckyll
+     * R, Python, SQL, Julia, Git, Latex, Unix/SGE, bash, Jeckyll, Html
 
 * Statistics
-     * Regularized regression
-     * Dimension reduction
-     * Sampling
-     * Bayesian statistics 
-     * Missing data
-     * Hierarchical models
-     * Model selection
-     * Latent variables
-     * Causal inference
-     * Multivariate analysis
+     * Survival Analysis, Bayesian statistics, Regularized regression, Causal inference, Dimension reduction, Sampling, ANOVA and ANCOVA, Missing data, Hierarchical models, Model selection, Latent variables, Multivariate analyses
      
 * Deep/Machine Learning
-     * Classification (CNN, adaboost/xgboost, SVM,
-      random forests)
-     * Unsupervised Learning (clustering, NMF, factor analysis)}     
- 
-* Biology Techniques
-	 * Genetic Engineering using CRISPR-Cas9 system in Stem Cell and Yeast
-     * Genetic Cloning
-     * Next Generation Sequencing Library Preparation
-     * Molecular Cloning
-     * DNA/RNA Amplification
-     * Stem Cell Culture 
-     * FACS Cell Sorting
+     * Classification (CNN, RNN, Neural Architecture Search, adaboost/xgboost, SVM,
+      random forests); Unsupervised Learning (clustering, NMF, factor analysis)} 
+
+* Digital Health device
+     * Analyze clinical data from digital devices using machine learning and deep learning 
+
+* Advanced Visualization
+     * ggplot2, build Rshiny app, document analysis with R bookdown, Adobe Illustrator
+
+* Multi-Omics and Bioinformatics
+     * Proteomics (SomaScan analysis); Genomics (GWAS and QTL, polygenic risk score)     
 
 * Languages:
-     * Mandarin (native speaker)
-     * English (fluent)
+     * Mandarin (native speaker); English (fluent)
 
 
-Summary
-----------
-Ph.D. student with thorough hands-on experience in quantitative genetics and statistics, including mapping the quantitative trait loci for different traits, genetic engineering using CRISPR in yeast and stem cells, analyzing DNA sequencing data, RNA sequencing data and methylation data. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
 
-
-Experience
+Work Experiences
 ----------
 
-* Jul. 2015 - Present     Laboratory of Quantitative Genetics, UCLA  
-  Graduate Researcher; Advisor Leonid Kruglyak
+* May 2022 - Present     
+
+  Novartis
+
+  Senior Expert Data Science II/Senior Principal Biostatistician
   
-	* Development of High-throughput Assay
+    * Biomarker for Late Phase Hematology Trials
+  
+      Serve as Statistical Biomarker lead for the AML/MDS disease area. Design and conduct the exploratory Statistical Analyses Plan for Biomarker analyses in phase II and phase III clinical trials. Create and review Exploratory Biomarker Report. Support submission of exploratory biomarker results. Identify the biomarker subgroups who have better response. Understand the underlying mechanism of compound and disease using biomarker data
+
+    * Same projects as I was the Senior Expert Data Science I
+    
+      Please refer to the section below.
+
+
+* Sep. 2019 - Apr. 2022   
+
+  Novartis 
+
+  Senior Expert Data Science I/Principal Biostatistician
+
+    * Early Phase Hematology Clinical Trial
 	
-      Developed and implemented an automated high-throughput fluctuation analysis to measure mutation rate of 1040 yeast segregants. This automated system enabled large scale measure of mutation rate the first time.
-    * Quantitative Genetic Analysis
+      Responsible for statistical tasks covering data analyses, dosage escalation and potentially dosage expansion. Represent biostatistics on cross-functional international teams for the assigned trial and collaborate with other line functions.
+
+    * Digital Health Clinical Trial
     
-      Performed quantitative trait loci (QTL) linkage mapping of 1040 yeast segregants at 28220 genetic markers for the mutation rate variation.
-    * Convolutional Neural Network
+      Perform exploratory analyses for innovative clinical digital endpoints with a variety of data architectures. Formulate integrated analytical approach to mine data sources, employ statistical methods and machine learning algorithms to discover actionable insights.
+
+    * Deep learning and machine learning
     
-      Predicted the genetic engineering efficiency of different guide RNAs using Convolutional neural network.
-    * Genetic Engineering in Yeast and Stem Cells
+      Build predictive models using various machine learning methods to predict the outcome. Use deep learning algorithms to analyze digital data (e.g. Electroencephalography data)
+
+    * Proteomics and GenomicsData Mining
     
-      Modified the targeting genome of yeast and stem cells using the cutting-edge CRISPR-Cas9 system.
+      Integrate SomaScan data and Genomics data from multiple clinical trials to understand the underlying mechanisms of diseases and to identify novel drug targets. Served as the proteomics committee to conduct lecture series on Proteomics and SomaScan data analyses.
       
-
-* Apr. 2015 - Jun. 2015     Laboratory of Computational Population Genetics, UCLA
-  Rotation Graduate Student; Advisor Bogdan Pasaniuc
+    * Pre-clinical Statistical Support
     
-    * Causal Inference
-          
-      Analyze the 1000 genome data and Geuvadis RNA sequencing data and predict causal SNPs in risk loci using a probabilistic framework that integrates association strength with genomic functional annotation data to improve accuracy in selecting plausible causal variants.
+      Perform sample size calculation and provide statistical support for pre-clinical biologist and researchers. Developed the statistical justification and method part for the European Animal License renew. Contribute to the Non-clinical Statistics best working practice.
 
-* Oct. 2014 - Dec. 2014     Laboratory of Lipid Metabolism, UCLA
-  Rotation Graduate Student; Advisor Karen Reue
-  
-    * Differential Gene Expression Analysis
+    * Statistical Consulting
     
-      Investigated the differential expression pattern of micro RNAs in the adipose tissue of two group of mice to test the micro RNA roles in obesity.
+      Provide consulting support for projects requiring hands-on expertise in novel quantitative approaches, including incorporating evidence from sources of big data (biomarkers, digital technology and real world evidence).
 
-* Jul. 2013 - Sep. 2013     Laboratory of Computational Biology, UCLA
-  CSST Summer Undergraduate Researcher; Advisor Matteo Pellegrini
-  
-    * Methylation Data Analysis
+    * Smart Visualization
     
-      Analyzed the high-throughput Reduced Representation Bisulfite Sequencing (RRBS) data.
-    * Statistical Modeling         
-          
-      Examined the association between the methylation level of oral bacteria and the host sexual preference using generalized linear model and hierarchical clustering.
+      Design and develop the analysis pipelines, provide data-driven hypotheses and deliver smart visualization platforms (eg. RShiny app) to offer exploratory analyses support for researchers.
+
   
      
-Publications and Pre-prints
+Publications and Patent
 ----------
+* 2021
+  Kerry Rogers,Ian Flinn,Deborah Stephens,Thomas Kipps,Sarah Larson,Carolyn McGarry,Nadia Hassounah,Liangke Connie Gou,Janghee Woo,John Byrd. Investigating the Addition of Ianalumab (VAY736) to Ibrutinib in Patients with Chronic Lymphocytic Leukemia (CLL) on Ibrutinib Therapy: Results from a Phase Ib Study. Blood
+  [https://doi.org/10.1182/blood-2021-147775}{https://doi.org/10.1182/blood-2021-147775](https://doi.org/10.1182/blood-2021-147775}{https://doi.org/10.1182/blood-2021-147775)
+
+* 2020
+  Alex Sverdlov, Jelena Curcic, Kritin Hannesdottir, Liangke Gou, Jens Praestgaard, Vanessa Vallejo, Andrew Dolman, Baltazar Gomez-Mancilla, Kostas Biliouris. A study of new exploratory tools, digital technologies and biomarkers to characterize depression. Frontiers in Psychiatry
+  [https://www.frontiersin.org/articles/10.3389/fpsyt.2021.640741](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.640741)
+
+* 2020
+  Kerry Rogers, Ilan Flinn, Carolyn McGarry, Liangke Connie Gou, Nadia Hassounah, Janghee Woo, John Byrd. Phase 1b Study of Ianalumab (VAY736) and Ibrutinib in Patients With Chronic Lymphocytic Leukemia on Ibrutinib Therapy. Blood
+  [https://ash.confex.com/ash/2020/webprogram/Paper137629.html](https://ash.confex.com/ash/2020/webprogram/Paper137629.html)
+
+* 2020 US Patent
+  Kerry Rogers, Ilan Flinn, Carolyn McGarry, Liangke Connie Gou, Nadia Hassounah, Janghee Woo, John Byrd. Phase 1b Study of Ianalumab (VAY736) and Ibrutinib in Patients With Chronic Lymphocytic Leukemia on Ibrutinib Therapy. PAT058936-US-PSP
+
+* 2019
+  Zijun Zhang, Linqi Zhou, Liangke Gou, Ying Nian Wu. Neural Architecture Search for Joint Optimization of Predictive Power and Biological Knowledge. arXiv
+  [https://arxiv.org/abs/1909.00337](https://arxiv.org/abs/1909.00337)
+
+
 * 2018
-  Liangke Gou, Joshua Bloom, Leonid Kruglyak. The genetic basis of mutation rate variation in yeast. bioRxiv
-  [https://www.biorxiv.org/content/early/2018/06/04/338723](https://www.biorxiv.org/content/early/2018/06/04/338723)
+  Liangke Gou, Joshua Bloom, Leonid Kruglyak. The genetic basis of mutation rate variation in yeast. Genetics
+  [http://www.genetics.org/content/early/2018/11/30/genetics.118.301609](http://www.genetics.org/content/early/2018/11/30/genetics.118.301609)
       
 * 2013
-  Li-Chun Jiang, Liang-Ke Gou, Xin Zhang, Qing-Mei Zhao, Shuai Tan, Rui Peng, Yu-Qing, Wei\*, Fang-Dong Zou\*;Complete mitochondrial genome of a new subspecies of the blue sheep, Pseudois nayaur (Cetartiodactyla: Caprinae) from Helan Mountain in China; Mitochondrial DNA, DOI: 10.3109/19401736.2013.855759
+  Li-Chun Jiang, Liang-Ke Gou, Xin Zhang, Qing-Mei Zhao, Shuai Tan, Rui Peng, Yu-Qing, Wei, Fang-Dong Zou;Complete mitochondrial genome of a new subspecies of the blue sheep, Pseudois nayaur (Cetartiodactyla: Caprinae) from Helan Mountain in China; Mitochondrial DNA
+  [https://www.tandfonline.com/doi/abs/10.3109/19401736.2013.855759?journalCode=imdn20](https://www.tandfonline.com/doi/abs/10.3109/19401736.2013.855759?journalCode=imdn20)
