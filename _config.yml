@@ -8,7 +8,7 @@
 # Site settings
 title: Connie (Liangke) Gou
 description: Homepage and Blogs of Connie Gou
-brief-intro: Data Scientist @ Novartis 
+brief-intro: Biostatistician and Data Scientist @ Novartis 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gouliangke.github.io" # the base hostname & protocol for your site
 
